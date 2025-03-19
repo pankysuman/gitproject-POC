@@ -1,2 +1,3 @@
 # gitproject-POC
-My first git repository
+My first git repository 
+Author: pankaj kumar
